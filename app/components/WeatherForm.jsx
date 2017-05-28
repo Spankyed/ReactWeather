@@ -16,7 +16,7 @@
      return(
        <div>
          <form onSubmit={this.onFormSubmit}>
-           <input type="text" ref="location"/>
+           <input type="search" placeholder="Search Weather by City" ref="location"/>
            <button className="hollow button expanded">Get Weather</button>
          </form>
        </div>
