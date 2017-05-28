@@ -8,7 +8,7 @@ var About = (props) => {
       <p>Here are some tools used..</p>
       <ul>
         <li>
-          <a href='https://nodejs.org'>Nodejs</a> JavaScript runtime
+          <a href='https://nodejs.org'>Node</a> JavaScript runtime
         </li>
         <li>
           <a href='https://expressjs.com/'>Express</a> web application framework
